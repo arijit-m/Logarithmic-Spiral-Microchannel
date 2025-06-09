@@ -1,12 +1,10 @@
-![Slide1](https://github.com/user-attachments/assets/c48e6ed1-e80a-4db3-b3cb-4e257051feec)
-![Slide2](https://github.com/user-attachments/assets/fbc2f332-828c-43e2-b136-bdf993079683)
-![Slide3](https://github.com/user-attachments/assets/fceb281c-e224-4537-860f-1f96c8477cce)
 
 # Microfluidic Spiral Channel with Micropillar Array
 
 ## Overview
 
 This repository documents the design and fabrication of a **logarithmic spiral microfluidic channel** embedded with **micropillar arrays** for **inertial, label-free particle separation**. The device leverages fluid dynamics and curvature-induced inertial forces to achieve **passive, size-based separation**—without requiring external fields or active control systems.
+![Slide1](https://github.com/user-attachments/assets/c48e6ed1-e80a-4db3-b3cb-4e257051feec)
 
 ---
 
@@ -58,7 +56,7 @@ This microfluidic system has wide applicability in:
 
 ## Authors and Contact
 
-Developed by [Your Name] under [Lab Name / Institution].  
-For collaborations or questions, contact: **[your.email@example.com]**
+Developed by Arijit Mohanta and Saurabh Dubey under supervision of Prof Dipankar Bandyopadhyay.  
+For collaborations or questions, contact: **[m.arijit@iitg.ac.in]**
 
 ---
